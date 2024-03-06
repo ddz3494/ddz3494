@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddz3494
-- 👀 I’m interested in ...
+- 👀 I’m interested in latest SAP technologies
 - 🌱 I’m currently learning SAP Cloud Application Programming Model
-- 💞️ I’m looking to collaborate on SAP RESTful Application Programming Model, SAP ABAP. 
+- 💞️ I’m looking to collaborate on SAP RESTful Application Programming Model & SAP ABAP
 - 📫 You can reach me at +91-94265 32065 / dharmikzinzuvadiya@yahoo.in
 - 😄 Pronouns: He/Him
 
